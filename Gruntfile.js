@@ -17,14 +17,14 @@ module.exports = function(grunt) {
             },
             local: {
                 options: {
-                    url: "http://1b44ccf0.ngrok.io",
+                    url: "http://6d81f893.ngrok.io",
                     strategy: "desktop",
                     threshold: 90
                 }
             },
             mobile: {
                 options: {
-                    url: "http://1b44ccf0.ngrok.io",
+                    url: "http://6d81f893.ngrok.io",
                     strategy: "mobile",
                     threshold: 90
                 }
